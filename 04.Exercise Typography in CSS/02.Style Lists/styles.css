@@ -1,22 +1,3 @@
-/*    • <body>:
-        ◦ Font: Helvetica
-        ◦ Generic Font: sans-serif
-        ◦ Height of the line: 1.5
-        ◦ Font size: 18px
-        ◦ Background color: #EDEDED
-    • <h2>:
-        ◦ Decorate the text with underline
-        ◦ Paddings: 20px
-        ◦ Top & bottom margin 10px
-        ◦ Left & right margin 5px
-        ◦ Space between letters: 3px
-        ◦ Background color: #3B516B
-        ◦ Radius of the border: 10px
-        ◦ Text color: floralwhite
-    • <li>:
-        ◦ Left margin: 20px
-*/
-
 body {
   font-family: Helvetica, sans-serif;
   line-height: 1.5;
