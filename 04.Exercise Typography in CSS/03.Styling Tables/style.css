@@ -1,17 +1,3 @@
-/*     • <body>:
-        ◦ Font: Montserrat
-    • Use CSS import: @import 'https://fonts.googleapis.com/css?family=Montserrat';
-        ◦ Generic Font: sans-serif
-        ◦ Paddings: 16px
-    • <th>:
-        ◦ Background color: lightblue
-    • <th> and <td>:
-        ◦ Width: 144px
-        ◦ Height: 32px
-        ◦ Solid border with size 1px and color #ccc
-        ◦ Left padding: 5px
-*/
-
 body {
   font-family: Montserrat, sans-serif;
   padding: 16px;
