@@ -1,0 +1,12 @@
+div {
+  border: 1px solid black;
+}
+
+p {
+  font-weight: bold;
+  background-color: coral;
+}
+
+.box{
+  margin-block: 10%;
+}
