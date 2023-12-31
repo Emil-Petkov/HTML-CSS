@@ -1,0 +1,8 @@
+p {
+  font-weight: bold;
+  background-color: coral;
+}
+
+.box {
+  border: 2px solid blue;
+}
