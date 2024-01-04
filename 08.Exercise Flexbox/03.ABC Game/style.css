@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 20px/1.5 Helvetica, sans-serif;
+}
+
+body{
+    padding: 2em;
+}
+
+.container{
+    display: flex;
+    max-width: 15vw;
+    height: 22rem;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 0.3em;
+}
+
+span{
+    flex-grow: 0;
+    padding: 0.5em;
+    border: 1px solid black;
+    text-align: center;
+}
+
