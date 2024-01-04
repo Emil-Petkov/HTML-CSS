@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: 16px/1.5 Hlevetica, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Georgia, serif;
+  font-weight: normal;
+}
+
+section{
+    margin: 5em auto;
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+    gap: 2em;
+}
