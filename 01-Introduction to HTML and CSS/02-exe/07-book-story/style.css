@@ -1,0 +1,15 @@
+div {
+    background-color: lightgray;
+    width: 400px;
+    border: 1px solid black;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
