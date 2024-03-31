@@ -1,5 +1,0 @@
-article > span:nth-child(1),
-article > span:last-child {
-  background-color: red;
-  color: white;
-}
