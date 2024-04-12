@@ -1,0 +1,98 @@
+@media (max-width: 600px) {
+    body {
+        font-size: 12px;
+    }
+
+    .home-navbar{
+        position: static;
+    }
+
+    .home-container {
+        padding-top: 0px;
+    }
+
+    .home-header {
+        padding: 12px 0;
+    }
+
+    .home-header .navbar-link {
+        display: none;
+    }
+
+    .Heading-2 {
+        font-size: 20px;
+    }
+
+    .section-heading-section-heading {
+        margin: 30px;
+    }
+
+    .home-cards-container {
+        grid-gap: 10px;
+    }
+
+    .category-card-image {
+        width: 195px;
+        height: auto;
+        aspect-ratio: 1/1;
+    }
+
+    .max-width-container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .section-container {
+        flex-direction: column;
+        align-items: stretch;
+        padding-top: 10px;
+    }
+
+    .home-left4 {
+        padding: 30px 0;
+    }
+
+    .home-content {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .home-text30 {
+        width: auto;
+        padding: 0 10px;
+    }
+
+    .home-text29{
+        font-size: 20px;
+    }
+
+    .home-text30{
+        font-size: 12px;
+        line-height: 1.5;
+    }
+
+    .home-image6{
+        width: 100%;
+        height: auto;
+    }
+
+    .home-footer1{
+        padding: 20px;
+        flex-direction: column;
+        
+    }
+
+    .home-container09{
+        order:1000;
+    }
+
+    .home-container10, .home-container11{
+        margin-right: 0;
+    }
+
+    .home-links-container{
+        flex-direction: column;
+    }
+
+    
+}
